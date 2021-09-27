@@ -1,2 +1,0 @@
-(self.webpackChunkkingdom_of_fonts=self.webpackChunkkingdom_of_fonts||[]).push([[790],{4832:function(n,t,e){"use strict"},5453:function(n,t,e){"use strict";e(7294),e(3597)},5755:function(n,t,e){"use strict";e.r(t);var u=e(7294),f=(e(9870),e(4832),e(5453),e(3049)),o=(e(9203),e(5444));t.default=function(){return(0,u.useEffect)((function(){}),[]),u.createElement(f.Z,null,"Thank you!",u.createElement(o.Link,{to:"/"},"go there"))}}}]);
-//# sourceMappingURL=component---src-pages-thanks-js-2bb41c082419b6c6f130.js.map
