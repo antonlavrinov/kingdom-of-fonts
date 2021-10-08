@@ -4,4 +4,9 @@
 <url> <loc>https://pavlushin.design/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pavlushin.design/restore-access/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://pavlushin.design/thanks/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pavlushin.design/myfonts/handwritten/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pavlushin.design/myfonts/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pavlushin.design/myfonts/sans-serif/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pavlushin.design/myfonts/serif/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://pavlushin.design/myfonts/stylized/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
