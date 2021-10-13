@@ -1,2 +1,2 @@
 (window.webpackJsonp=window.webpackJsonp||[]).push([[10],{RXBc:function(t,e,n){"use strict";n.r(e);var a=n("q1tI"),c=n.n(a),i=n("7oih"),s=n("Wbzz"),o=n("xAvW");e.default=function(){return Object(a.useEffect)((function(){Object(s.navigate)("/myfonts")}),[]),c.a.createElement(i.a,null,c.a.createElement(o.a,{title:"Бесплатная кириллица",description:"Подборка лучших кириллических шрифтов с бесплатной коммерческой лицензией для ваших проектов.",keywords:["подборка","шрифты","fonts","кириллица","бесплатно"],url:"https://pavlushin.design/"}))}}}]);
-//# sourceMappingURL=component---src-pages-index-js-82493e739ae32e9d7f3a.js.map
+//# sourceMappingURL=component---src-pages-index-js-f3b332d41ac66864f98d.js.map

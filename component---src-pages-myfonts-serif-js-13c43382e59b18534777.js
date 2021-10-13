@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{KGS9:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),l=n.n(t),r=n("7oih"),c=n("yUdm"),o=(n("Wbzz"),n("qS3X"),n("xEK/"),n("D3e4")),s=(n("aTCE"),n("NGmk")),u=n("xAvW");a.default=function(e){var a=e.data;return console.log("data",a),l.a.createElement(r.a,null,l.a.createElement(u.a,null),l.a.createElement(c.a,null),l.a.createElement(o.a,{cards:a.serifFonts.edges,category:s.a[1]}))}}}]);
-//# sourceMappingURL=component---src-pages-myfonts-serif-js-13c43382e59b18534777.js.map
