@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{SLsw:function(a,e,n){"use strict";n.r(e);var t=n("q1tI"),l=n.n(t),o=n("7oih"),c=(n("yUdm"),n("Wbzz"),n("qS3X"),n("xEK/")),d=(n("D3e4"),n("aTCE"),n("NGmk"),n("xAvW"));n("a8qQ");e.default=function(a){var e,n=a.data;return console.log("data",n),l.a.createElement(o.a,null,l.a.createElement(d.a,null),l.a.createElement(c.a,{cards:null===(e=n.allFonts)||void 0===e?void 0:e.edges}))}}}]);
-//# sourceMappingURL=component---src-pages-myfonts-index-js-3e33b7648a7ce26b7889.js.map
