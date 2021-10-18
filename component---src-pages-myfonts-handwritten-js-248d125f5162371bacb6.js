@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{XXHN:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),c=n.n(t),r=n("7oih"),o=(n("Wbzz"),n("D3e4")),l=n("NGmk"),u=n("u4m5"),d=n("Nc0Z");a.default=function(e){var a,n=e.data;return Object(d.a)(),c.a.createElement(r.a,null,c.a.createElement(u.a,null),c.a.createElement(o.a,{cards:null===(a=n.handwrittenFonts)||void 0===a?void 0:a.edges,category:l.a[3]}))}}}]);
+//# sourceMappingURL=component---src-pages-myfonts-handwritten-js-248d125f5162371bacb6.js.map

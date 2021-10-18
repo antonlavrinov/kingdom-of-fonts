@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{upjy:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),r=t.n(n),c=t("7oih"),u=(t("yUdm"),t("Wbzz"),t("qS3X"),t("xEK/"),t("D3e4")),l=(t("aTCE"),t("NGmk")),o=t("u4m5");t("a8qQ");a.default=function(e){var a=e.data;return r.a.createElement(c.a,null,r.a.createElement(o.a,null),r.a.createElement(u.a,{cards:a.stylizedFonts.edges,category:l.a[2]}))}}}]);
-//# sourceMappingURL=component---src-pages-myfonts-stylized-js-9e30e270db617301d589.js.map
