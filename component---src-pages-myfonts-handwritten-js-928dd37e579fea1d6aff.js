@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{XXHN:function(e,t,a){"use strict";a.r(t);var n=a("q1tI"),r=a.n(n),c=a("7oih"),i=(a("Wbzz"),a("D3e4")),o=a("NGmk"),s=a("u4m5"),d=a("Nc0Z");t.default=function(e){var t,a=e.data;return Object(d.a)(),r.a.createElement(c.a,null,r.a.createElement(s.a,{url:"https://pavlushin.design/myfonts/handwritten"}),r.a.createElement(i.a,{cards:null===(t=a.handwrittenFonts)||void 0===t?void 0:t.edges,category:o.a[3]}))}}}]);
+//# sourceMappingURL=component---src-pages-myfonts-handwritten-js-928dd37e579fea1d6aff.js.map

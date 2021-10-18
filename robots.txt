@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+Disallow: /restore
+Disallow: /thanks
+
+User-agent: Yandex
+Allow: /
+Disallow: /restore
+Disallow: /thanks
+
+User-agent: Googlebot
+Allow: /
+Disallow: /restore
+Disallow: /thanks
+Sitemap: https://pavlushin.design/sitemap.xml
+Host: https://pavlushin.design
