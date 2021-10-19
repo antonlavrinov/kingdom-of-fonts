@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{SLsw:function(a,e,n){"use strict";n.r(e);var t=n("q1tI"),s=n.n(t),l=n("7oih"),c=(n("yUdm"),n("Wbzz"),n("qS3X"),n("xEK/")),o=(n("D3e4"),n("aTCE"),n("NGmk"),n("u4m5")),r=(n("a8qQ"),n("Nc0Z"));e.default=function(a){var e,n=a.data;return Object(r.a)(),s.a.createElement(l.a,null,s.a.createElement(o.a,{url:"https://pavlushin.design/myfonts"}),s.a.createElement(c.a,{cards:null===(e=n.allFonts)||void 0===e?void 0:e.edges}))}}}]);
-//# sourceMappingURL=component---src-pages-myfonts-index-js-ce5818507de444d29f80.js.map

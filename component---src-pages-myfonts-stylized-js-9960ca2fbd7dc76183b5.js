@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{upjy:function(e,a,t){"use strict";t.r(a);var n=t("q1tI"),s=t.n(n),c=t("7oih"),r=(t("yUdm"),t("Wbzz"),t("qS3X"),t("xEK/"),t("D3e4")),u=(t("aTCE"),t("NGmk")),d=t("u4m5"),i=(t("a8qQ"),t("Nc0Z"));a.default=function(e){var a=e.data;return Object(i.a)(),s.a.createElement(c.a,null,s.a.createElement(d.a,{url:"https://pavlushin.design/myfonts/stylized"}),s.a.createElement(r.a,{cards:a.stylizedFonts.edges,category:u.a[2]}))}}}]);
-//# sourceMappingURL=component---src-pages-myfonts-stylized-js-9960ca2fbd7dc76183b5.js.map
