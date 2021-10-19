@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{w2l6:function(e,n,l){"use strict";l.r(n);var t=l("q1tI"),a=l("a8qQ"),u=l("7oih"),c=l("KRny");n.default=function(){return t.createElement(u.a,null,t.createElement(c.b,null),t.createElement(c.a,null,t.createElement(a.w,null,t.createElement(a.E,null,"404 ",t.createElement("span",null,"Страница не найдена :(")))))}}}]);
+//# sourceMappingURL=component---src-pages-404-js-02e39aba8308c4a45017.js.map
