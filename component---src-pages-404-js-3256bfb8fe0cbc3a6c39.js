@@ -1,2 +1,0 @@
-(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{w2l6:function(e,n,l){"use strict";l.r(n);var t=l("q1tI"),a=l("a8qQ"),r=l("7oih"),u=l("KRny");n.default=function(){return t.createElement(t.Fragment,null,t.createElement(u.b,null),t.createElement(r.a,null,t.createElement(u.a,null,t.createElement(a.w,null,t.createElement(a.E,null,"404 ",t.createElement("span",null,"Страница не найдена :("))))))}}}]);
-//# sourceMappingURL=component---src-pages-404-js-3256bfb8fe0cbc3a6c39.js.map
